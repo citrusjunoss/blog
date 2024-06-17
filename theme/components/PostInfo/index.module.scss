@@ -1,0 +1,10 @@
+.postInfoContainer {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: flex-start;
+
+  .postInfoMetaItem {
+    margin-right: 0.5em;
+  }
+}
